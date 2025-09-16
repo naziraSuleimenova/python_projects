@@ -13,3 +13,9 @@ This is a basic Python calculator program that performs simple arithmetic operat
 # Temperature Converter
 
 This is a simple Python program that converts temperatures between Celsius (°C) and Fahrenheit (°F).
+
+
+# Capitals Quiz
+
+A simple Python multiple-choice quiz game to test your knowledge of world capitals.
+Built with a Question class for clean structure and a separate question bank for easy expansion.
